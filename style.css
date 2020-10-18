@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+
+/* 全体・共通のスタイル */
+
+.overall {
+
+  font-family: 'Libre Baskerville', 'Noto Sans JP', serif;
+
+  line-height: 1.6;
+
+  background-color: #1a1a1a;
+
+  color: #fff;
+
+}
+
+
+
+a {
+
+  color: #fff;
+
+  text-decoration: none;
+
+}
+
+
+
+img {
+
+  width: 100%;
+
+}
+
+
+
